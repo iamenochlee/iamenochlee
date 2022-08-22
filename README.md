@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Akinbode Enoch</h1>
-<h3 align="center">A passionate frontend developer from Lagos</h3>
+<h1>Hi 👋, I'm Akinbode Enoch</h1>
+<h3>I am a web developer from Lagos</h3>
 
 
-- 🌱 I’m currently learning **React Native**
+-  I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **open internship program**
+-  I’m looking to collaborate on **open internship program**
 
-- 💬 Ask me about **Web Development**
+-  Ask me about **Web Development**
 
-- 📫 How to reach me **enochakinbode466@gmail.com**
+-  How to reach me **enochakinbode466@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
