@@ -1,8 +1,9 @@
-<h1>Hi 👋, I'm Akinbode Enoch</h1>
-<h3>I am a web developer from Lagos</h3>
+<h2>Building the web...</h2>
+
+<h3>I am a web developer</h3>
 
 
--  I’m currently learning **React**
+-  I’m open to freelancing
 
 -  I’m looking to collaborate on **open internship program**
 
